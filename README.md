@@ -22,10 +22,9 @@
     * 인터넷만 지원되면 사용가능
     * 여기서는 [repl.it](https://repl.it) 사이트 활용. 
         사용법은 [동영상](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-1. 오프라인 및 온라인 개발환경
-    * 개인 컴퓨터에 파이썬을 설치한 후 사용.
-    * [docker](https://www.docker.com) 또는 [binder](https://mybinder.org) 활용 추천: 
-        [GitHub/jamesdbrock](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) 참조.
+1. 주피터 노트북 학습 환경
+    * [docker](https://www.docker.com) 또는 [binder](https://mybinder.org) 활용
+    * 참조: [GitHub/jamesdbrock](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
 
 ## 강의 동영상
 
@@ -34,12 +33,14 @@
 
 ## 참고도서
 
-* [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html)
+* [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html), 2판
+    * 저자: Graham Hutton
     * 하스켈 프로그래밍 기초 학습
 * [A Gentle Introduction to Haskell (Version 98)](https://www.haskell.org/tutorial/)
     * 하스켈 기초 문법 소개
     * 번역서: [하스켈 공식 입문서 번역문](http://wiki.reeseo.net/Haskell/공식%20입문서%20번역문)
-* [Learn You a Haskell for Great Good](http://learnyouahaskell.com)
+* [Learn You a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com)
+    * 저자: Miran Lipovaca
     * 하스켈 프로그래밍 기초 학습 (온라인 공개)
     * [GitHub/jamesdbrock](https://github.com/jamesdbrock/learn-you-a-haskell-notebook): 
         주피터 노트북 및 온라인 학습 지원([mybinder](https://mybinder.org/v2/gh/jamesdbrock/learn-you-a-haskell-notebook/master?urlpath=lab/tree/learn_you_a_haskell/00-preface.ipynb))
