@@ -40,7 +40,7 @@
     * 하스켈 기초 문법 소개
     * 번역서: [하스켈 공식 입문서 번역문](http://wiki.reeseo.net/Haskell/공식%20입문서%20번역문)
 * [Learn You a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com)
-    * 저자: Miran Lipovaca
+    * 저자: Miran Lipova&#269;a
     * 하스켈 프로그래밍 기초 학습 (온라인 공개)
     * [GitHub/jamesdbrock](https://github.com/jamesdbrock/learn-you-a-haskell-notebook): 
         주피터 노트북 및 온라인 학습 지원([mybinder](https://mybinder.org/v2/gh/jamesdbrock/learn-you-a-haskell-notebook/master?urlpath=lab/tree/learn_you_a_haskell/00-preface.ipynb))
